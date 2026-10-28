@@ -1,0 +1,24 @@
+{
+  "name": "lore",
+  "displayName": "Lore",
+  "version": "1.0.0",
+  "description": "Write articles and quizzes into your private Lore knowledge inbox through Lore's hosted MCP server. Requires a Lore Pro subscription.",
+  "author": {
+    "name": "ProtoductAI Inc.",
+    "email": "support@protoductai.com"
+  },
+  "homepage": "https://mcp.lore.protoductai.com",
+  "repository": "https://github.com/Protoduct-AI/lore-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "learning",
+    "knowledge",
+    "articles",
+    "quiz",
+    "spaced-review",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
